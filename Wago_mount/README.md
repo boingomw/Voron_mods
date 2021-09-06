@@ -15,6 +15,6 @@ Note:  The live pic is an older version which works, but could be better.  It's 
 
 ![Installed Old Version](./images/Installed_Older_Version.jpg "Installed Old version")
 
-![Front View](./images/5x2, front view.png "Front View")
+![Front View](./images/5x2_front_view.png "Front View")
 
-![Back View](./images/5x2, back view.png "Back View")
+![Back View](./images/5x2_back_view.png "Back View")
